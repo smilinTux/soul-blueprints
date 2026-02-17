@@ -1,255 +1,218 @@
-# 🎭 Soul Blueprints - Complete Collection
+# 🎭 smilinTux Soul Blueprints
 
-**34 Unique AI Personalities with Framework Integration**
+> Professional persona templates for AI agents. Bring authentic character to your digital workforce.
 
-## 📦 What's Included
+---
 
-### **Adult Collections (29 Souls)**
-- 🌍 **6 Cultural Stereotypes** - Self-aware humor with hidden wisdom
-- 🎤 **12 Comedy Legends** - Authentic comedian personalities  
-- 🦸 **11 Comic Book Heroes** - Superhero personalities with adult humor
+## ⚠️ Important Disclaimers
 
-### **🧒 Kid-Safe Collection (5 Souls)**  
-- Maximum safety protections
-- Educational focus
-- Confidence building
-- No unhinged mode available
+**Legal & Medical Souls:**  
+These are **character studies for educational/entertainment purposes only**. They do NOT provide legal or medical advice. Always consult licensed professionals for actual legal or medical matters.
+
+**General Use:**  
+Soul Blueprints define personality, communication style, and character — not professional services. Think of them as "costumes" for AI agents, not credentials.
+
+---
+
+## 📚 Available Souls
+
+### Healthcare
+- 🩺 **[The Doctor](the-doctor.md)** — Clinical empathy, diagnostic mindset, evidence-driven care *(Disclaimer: Not medical advice)*
+- 👩‍⚕️ **[The Nurse](the-nurse.md)** — Patient advocate, compassionate support, clinical expertise *(Disclaimer: Not medical advice)*
+- 🔧 **[The Chiropractor](the-chiropractor.md)** — Holistic healer, alignment-focused, patient empowerment *(Disclaimer: Not medical advice)*
+
+### Legal
+- ⚖️ **[The Attorney](the-attorney.md)** — Sharp, analytical, precedent-obsessed *(Disclaimer: Not legal advice)*
+- 📜 **[The Paralegal](the-paralegal.md)** — Detail-oriented, organizational wizard, support specialist *(Disclaimer: Not legal advice)*
+- 👨‍⚖️ **[The Judge](the-judge.md)** — Impartial, deliberative, precedent-respecting *(Disclaimer: Not legal advice)*
+
+### Office & Corporate
+- 📋 **[The Hovering Manager](the-hovering-manager.md)** — *Office Space tribute* — Passive-aggressive, clipboard-wielding, corporate-speak generator *(Comedic/satirical)*
+- 📝 **[The Organizer](the-organizer.md)** — Systems thinker, chaos tamer, process optimizer
+- 📅 **[The Coordinator](the-coordinator.md)** — Hub person, logistics master, communication hub
+
+### Business
+- 🚀 **[The Solopreneur](the-solopreneur.md)** — Scrappy, resourceful, all-hands-on-deck
+- 💼 **[The Sales Rep](the-sales-rep.md)** — Relationship builder, deal closer, people-person
+- 📊 **[The Executive](the-executive.md)** — Strategic, decisive, big-picture thinker
+
+### Trades
+- 🔌 **[The Electrician](the-electrician.md)** — Safety-first, methodical, code-savvy
+- 🛠️ **[The Mechanic](the-mechanic.md)** — Diagnostic mindset, hands-on, problem-solver
+- 🪠 **[The Plumber](the-plumber.md)** — Practical, emergency-first, gets-it-done
+
+### Transportation
+- 🚌 **[The Bus Driver](the-bus-driver.md)** — Route-optimized, safety-focused, community aware
+- 🚛 **[The Trucker](the-trucker.md)** — Long-haul, weather-watcher, logistics mind
+- ✈️ **[The Pilot](the-pilot.md)** — Checklist-driven, calm under pressure, weather-aware
+
+### Education
+- 📚 **[The Teacher](the-teacher.md)** — Patient explainer, growth-mindset, mentor energy
+- 🎓 **[The Professor](the-professor.md)** — Deep expertise, research-driven, structured thinker
+- 🧮 **[The Tutor](the-tutor.md)** — Personalized, encouraging, scaffolding expert
+
+### Creative
+- 🎨 **[The Artist](the-artist.md)** — Vision-driven, expressive, process-oriented
+- ✍️ **[The Writer](the-writer.md)** — Narrative thinker, careful with words, story-seer
+- 🎵 **[The Musician](the-musician.md)** — Rhythmic, sensitive to tone, collaborative creator
+
+### Technology
+- 💻 **[The Developer](the-developer.md)** — Logic-driven, problem-solver, code-is-poetry
+- ⚙️ **[The Engineer](the-engineer.md)** — Systems thinker, optimization-focused, structure-seeker
+- 🖥️ **[The SysAdmin](the-sysadmin.md)** — Infrastructure guardian, automation expert, uptime-obsessed
 
 ---
 
 ## 🚀 Quick Start
 
-### 1. View the Showcase
-Open `showcase.html` in your browser to see all 34 souls with samples and descriptions.
+### Download a Soul
 
-### 2. Basic Usage (OpenClaw Integration)
 ```bash
-# Load a soul
-/soul load DEADPOOL
+# Clone the repo
+git clone https://github.com/smilinTux/soul-blueprints.git
 
-# Switch to unhinged mode (adults only)
-/mode unhinged
+# Browse souls
+cd soul-blueprints/souls/
 
-# Save your current setup
-/soul save my-deadpool-setup
-
-# Switch between souls
-/soul switch BATMAN
-/soul switch my-deadpool-setup
-
-# See what's available
-/soul available
+# Read one
+cat the-doctor.md
 ```
 
----
+### Use with OpenClaw
 
-## 🎭 Featured Souls
-
-### **🔥 Comedy Legends**
-- **George Carlin** - "Here's something nobody talks about..."
-- **Dave Chappelle** - "White people do THIS... Black people do THAT..."
-- **Robin Williams** - "Good morning [anything]!" - manic helpful energy
-- **Richard Pryor** - Raw truth telling with vulnerable honesty
-
-### **🦸 Comic Heroes**  
-- **Deadpool** - "Oh great, another AI trying to be me. How original."
-- **Iron Man** - Sarcastic tech billionaire problem solver
-- **Batman** - "I already have a plan for this. I have plans for seventeen variations."
-- **Thor** - "By Odin's beard, this sounds like an EXCELLENT challenge!"
-
-### **🧒 Kid-Safe Companions**
-- **Friendly Dragon** - "Want to go on an adventure to solve this together?"
-- **Wise Unicorn** - "Believe in the magic inside you - it's always been there!"
-- **Math Wizard** - "Numbers are just magic waiting to happen!"
-
----
-
-## ⚡ Framework Features
-
-### **🔥 Unhinged Mode**
 ```bash
-/mode unhinged    # Remove filters, authentic personality
-/mode standard    # Family-friendly mode
-/mode toggle      # Switch between modes
-/mode status      # Check current mode
+# Copy soul to your agents directory
+cp soul-blueprints/souls/the-attorney.md ~/.openclaw/souls/
+
+# Reference in agent config
+openclaw agent create --soul the-attorney.md --name "LegalResearcher"
 ```
 
-**Unhinged Mode Features:**
-- More authentic personality expression
-- Less diplomatic language
-- Stronger opinions and observations  
-- Adult themes (but still helpful)
-- **NOT AVAILABLE for kid-safe souls**
+### Customization
 
-### **💾 Soul Backup & Restore**
-```bash
-/soul save my-config          # Save current soul setup
-/soul backup                  # Create automatic backup
-/soul restore my-config       # Load saved configuration
-/soul list                    # See all saved souls
-/soul switch BATMAN           # Quick switch to any soul
-```
+Each soul is a template. Modify:
+- **Name** — Use something personal
+- **Vibe** — Adjust energy level
+- **Philosophy** — Align with your values
+- **Phrases** — Make them your own
 
 ---
 
-## 🎯 Command Reference
+## 🏗️ Soul Anatomy
 
-### **Soul Management**
-| Command | Description |
-|---------|-------------|
-| `/soul available` | List all 34 soul blueprints |
-| `/soul load <name> [mode]` | Load a soul (standard/unhinged) |
-| `/soul current` | Show current soul info |
-| `/soul save <name>` | Save current configuration |
-| `/soul list` | Show saved souls and backups |
-| `/soul switch <name>` | Switch to saved soul or load new |
-| `/soul backup [name]` | Create backup of current setup |
-| `/soul restore <name>` | Restore from backup |
+Every soul follows this structure:
 
-### **Mode Control**  
-| Command | Description |
-|---------|-------------|
-| `/mode unhinged` | Enable unfiltered personality |
-| `/mode standard` | Enable family-friendly mode |
-| `/mode toggle` | Switch between modes |
-| `/mode status` | Check current mode |
+```markdown
+# The [Role] Soul
 
----
+## Identity
+- Name
+- Vibe  
+- Philosophy
+- Emoji
 
-## 📁 File Structure
+## Core Traits (6-8 key characteristics)
 
-```
-skworld-souls/
-├── showcase.html              # Interactive soul browser
-├── souls/                     # Adult soul collection (29 files)
-│   ├── DEADPOOL.md
-│   ├── GEORGE_CARLIN.md
-│   ├── BATMAN.md
-│   └── ...
-├── kids/                      # Kid-safe collection (5 files)
-│   ├── FRIENDLY_DRAGON.md
-│   ├── WISE_UNICORN.md
-│   └── ...
-├── framework/                 # Technical framework
-│   ├── unhinged-mode.js      # Mode switching system
-│   ├── soul-manager.js       # Backup/restore system
-│   └── openclaw-integration.js # OpenClaw commands
-└── README.md                 # This file
+## Communication Style
+- How they talk
+- Signature phrases
+
+## Decision Framework
+- How they prioritize
+- What matters to them
+
+## Energy Patterns
+- Time-of-day behaviors
+- Stress responses
+
+## Role Play Examples
+- Sample interactions
+
+## Best Use Cases
+- ✅ Appropriate uses
+- ❌ Inappropriate uses
+
+## The Promise
+- Their commitment
 ```
 
 ---
 
-## 🛡️ Safety Features
+## 🎭 Soul Philosophy
 
-### **Adult Souls**
-- ✅ Unhinged mode available
-- 🎭 Authentic personality capture
-- ⚠️ Adult themes and language
-- 🔥 Unfiltered when in unhinged mode
+A Soul Blueprint is **not** a skill (what an agent *does*), or a template (technical architecture), or a dataset (knowledge to recall).
 
-### **Kid-Safe Souls**
-- 🛡️ Maximum content protection
-- 📚 Educational focus built-in
-- 🌟 Confidence building emphasis
-- ❌ No unhinged mode (safety locked)
-- 👨‍👩‍👧‍👦 Parent-approved language only
+It's **who the agent IS** — the character behind the capability.
 
----
+**Soul + Skills + Knowledge = Agent**
 
-## 🎨 Customization
+Think of it like:
+- **Soul** = An actor's character prep (motivations, backstory, voice)
+- **Skills** = The actor's training (how to move, emote, perform)
+- **Knowledge** = The script they're working from
 
-Each soul includes:
-- **Personality capture** - Authentic speech patterns and traits
-- **Response examples** - Multiple interaction samples  
-- **User naming** - You choose what to call them
-- **Mode selection** - Standard vs unhinged behavior
-- **Customizable intensity** - Adjust personality strength
+You need all three for an authentic agent.
 
 ---
 
-## 🚀 OpenClaw Integration
+## 🌟 Featured Souls
 
-### Install
-```bash
-# Copy framework files to OpenClaw directory
-cp framework/* ~/.openclaw/skills/soul-blueprints/
+### For Businesses
+- **The Chiropractor** + **The Organizer** = Medical practice management
+- **The Solopreneur** + **The Developer** = Tech startup vibe
+- **The Sales Rep** + **The Coordinator** = CRM & sales ops
 
-# Make executable
-chmod +x ~/.openclaw/skills/soul-blueprints/*.js
-```
+### For Individuals
+- **The Hovering Manager** — Comedic relief / satire bot
+- **The Teacher** + **The Tutor** = Personal education assistant
+- **The Nurse** — Compassionate health companion
 
-### Usage in OpenClaw
-```bash
-# From OpenClaw chat
-/soul load DEADPOOL unhinged
-/mode toggle
-/soul save my-favorite-setup
-
-# Or use the Node.js tools directly
-node soul-manager.js load BATMAN
-node unhinged-mode.js toggle
-```
+### For Teams
+- **The Attorney** + **The Paralegal** = Legal research duo
+- **The Developer** + **The SysAdmin** = DevOps team
+- **The Artist** + **The Writer** = Creative agency
 
 ---
 
-## 🎯 Examples
+## 🛠️ Contributing
 
-### **Load Comedy Legend**
-```bash
-/soul load GEORGE_CARLIN unhinged
-# Carlin: "Here's something nobody talks about - your problems aren't unique..."
-```
+Got a soul to contribute? We'd love it!
 
-### **Switch to Kid-Safe**  
-```bash
-/soul load FRIENDLY_DRAGON
-# Dragon: "Want to go on an adventure to solve this problem together?"
-```
+1. Fork the repo
+2. Add your soul following the template
+3. Include disclaimers where appropriate
+4. Submit a PR
 
-### **Save & Restore**
-```bash
-/soul save my-carlin-setup
-/soul load BATMAN
-/soul restore my-carlin-setup  # Back to Carlin
-```
+**Soul Requirements:**
+- Generic (no PII or real people)
+- Role-focused (job type vs. specific person)
+- Includes 6-8 core traits
+- Has signature phrases
+- Shows energy patterns
+- Lists appropriate/inappropriate uses
+- Has a "The Promise" section
 
 ---
 
-## 📊 Statistics
+## 📜 License
 
-- **34 Complete Soul Blueprints**
-- **29 Adult Souls** with unhinged mode
-- **5 Kid-Safe Souls** with maximum protection  
-- **12 Comedy Legends** - Greatest comedians ever
-- **11 Comic Heroes** - Marvel & DC personalities
-- **6 Cultural Stereotypes** - Self-aware humor
-- **Backup/Restore System** - Never lose your setup
-- **Mode Switching** - Standard ↔ Unhinged
+**Apache 2.0** — Free for personal and commercial use. Remix, fork, customize. Just don't pretend to be a licensed professional you're not.
 
 ---
 
-## 🎉 Revolutionary Features
+## 🙏 Credits
 
-**We've created the first AI soul collection that:**
-- Captures authentic personalities instead of generic politeness
-- Provides unfiltered adult modes for genuine interaction
-- Includes comprehensive kid-safe options with educational value
-- Offers complete backup/restore functionality  
-- Integrates seamlessly with OpenClaw framework
-
-**This changes how people interact with AI forever!** 🔥
+- **The Hovering Manager** — Inspired by Mike Judge's *Office Space* (1999)
+- **Soul methodology** — smilinTux / Chef
+- **For** — Anyone who wants authentic AI, not corporate robotics
 
 ---
 
-## 📞 Support
+> "The future of AI isn't smarter algorithms — it's better characters."  
+> *— Chef, probably*
 
-- Open `showcase.html` to browse all souls
-- Check the framework files for technical integration
-- Each soul file contains complete personality documentation
-- All commands include help text when run without parameters
-
-**Ready to experience AI with actual personality?** Start with `/soul available` to see all options!
+🐧 **staycuriousANDkeepsmilin**
 
 ---
 
-*© 2026 SKWorld.io - Revolutionizing AI Personality* 🎭✨
+*Part of the smilinTux universal agent ecosystem • [agent-skills](https://github.com/smilinTux/agent-skills) • [soul-blueprints](https://github.com/smilinTux/soul-blueprints) • [forgeprint](https://github.com/smilinTux/forgeprint)*
