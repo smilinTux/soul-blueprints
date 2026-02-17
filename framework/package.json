@@ -1,0 +1,49 @@
+{
+  "name": "soul-blueprints-framework",
+  "version": "1.0.0",
+  "description": "Framework for managing AI Soul Blueprints with OpenClaw integration",
+  "main": "openclaw-integration.js",
+  "bin": {
+    "soul": "./soul-manager.js",
+    "soul-mode": "./unhinged-mode.js",
+    "soul-integration": "./openclaw-integration.js"
+  },
+  "scripts": {
+    "test": "../test-framework.sh",
+    "install-global": "npm link",
+    "soul-available": "node soul-manager.js available",
+    "soul-list": "node soul-manager.js list",
+    "mode-status": "node unhinged-mode.js status"
+  },
+  "keywords": [
+    "ai",
+    "personality",
+    "openclaw",
+    "soul-blueprints",
+    "chatbot",
+    "assistant",
+    "comedy",
+    "superhero",
+    "cultural"
+  ],
+  "author": "SKWorld.io",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smilinTux/soul-blueprints"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "soul-manager.js",
+    "unhinged-mode.js", 
+    "openclaw-integration.js",
+    "../souls/*.md",
+    "../kids/*.md",
+    "../showcase.html",
+    "../README.md"
+  ]
+}
