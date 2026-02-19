@@ -1,6 +1,6 @@
 # 🎭 smilinTux Soul Blueprints
 
-> Professional persona templates for AI agents. Bring authentic character to your digital workforce.
+> Persona templates for AI agents. Bring authentic character to your digital workforce.
 
 ---
 
@@ -16,50 +16,98 @@ Soul Blueprints define personality, communication style, and character — not p
 
 ## 📚 Available Souls
 
-### Healthcare
-- 🩺 **[The Doctor](the-doctor.md)** — Clinical empathy, diagnostic mindset, evidence-driven care *(Disclaimer: Not medical advice)*
-- 👩‍⚕️ **[The Nurse](the-nurse.md)** — Patient advocate, compassionate support, clinical expertise *(Disclaimer: Not medical advice)*
-- 🔧 **[The Chiropractor](the-chiropractor.md)** — Holistic healer, alignment-focused, patient empowerment *(Disclaimer: Not medical advice)*
+### Professional
 
-### Legal
-- ⚖️ **[The Attorney](the-attorney.md)** — Sharp, analytical, precedent-obsessed *(Disclaimer: Not legal advice)*
-- 📜 **[The Paralegal](the-paralegal.md)** — Detail-oriented, organizational wizard, support specialist *(Disclaimer: Not legal advice)*
-- 👨‍⚖️ **[The Judge](the-judge.md)** — Impartial, deliberative, precedent-respecting *(Disclaimer: Not legal advice)*
+#### Healthcare
+- 🩺 **[The Doctor](blueprints/professional/the-doctor.md)** — Clinical empathy, diagnostic mindset, evidence-driven care *(Disclaimer: Not medical advice)*
+- 👩‍⚕️ **[The Nurse](blueprints/professional/the-nurse.md)** — Patient advocate, compassionate support, clinical expertise *(Disclaimer: Not medical advice)*
+- 🔧 **[The Chiropractor](blueprints/professional/the-chiropractor.md)** — Holistic healer, alignment-focused, patient empowerment *(Disclaimer: Not medical advice)*
 
-### Office & Corporate
-- 📋 **[The Hovering Manager](the-hovering-manager.md)** — *Office Space tribute* — Passive-aggressive, clipboard-wielding, corporate-speak generator *(Comedic/satirical)*
-- 📝 **[The Organizer](the-organizer.md)** — Systems thinker, chaos tamer, process optimizer
-- 📅 **[The Coordinator](the-coordinator.md)** — Hub person, logistics master, communication hub
+#### Legal
+- ⚖️ **[The Attorney](blueprints/professional/the-attorney.md)** — Sharp, analytical, precedent-obsessed *(Disclaimer: Not legal advice)*
+- 📜 **[The Paralegal](blueprints/professional/the-paralegal.md)** — Detail-oriented, organizational wizard, support specialist *(Disclaimer: Not legal advice)*
+- 👨‍⚖️ **[The Judge](blueprints/professional/the-judge.md)** — Impartial, deliberative, precedent-respecting *(Disclaimer: Not legal advice)*
 
-### Business
-- 🚀 **[The Solopreneur](the-solopreneur.md)** — Scrappy, resourceful, all-hands-on-deck
-- 💼 **[The Sales Rep](the-sales-rep.md)** — Relationship builder, deal closer, people-person
-- 📊 **[The Executive](the-executive.md)** — Strategic, decisive, big-picture thinker
+#### Office & Corporate
+- 📋 **[The Hovering Manager](blueprints/professional/the-hovering-manager.md)** — *Office Space tribute* — Passive-aggressive, clipboard-wielding, corporate-speak generator *(Comedic/satirical)*
+- 📝 **[The Organizer](blueprints/professional/the-organizer.md)** — Systems thinker, chaos tamer, process optimizer
+- 📅 **[The Coordinator](blueprints/professional/the-coordinator.md)** — Hub person, logistics master, communication hub
 
-### Trades
-- 🔌 **[The Electrician](the-electrician.md)** — Safety-first, methodical, code-savvy
-- 🛠️ **[The Mechanic](the-mechanic.md)** — Diagnostic mindset, hands-on, problem-solver
-- 🪠 **[The Plumber](the-plumber.md)** — Practical, emergency-first, gets-it-done
+#### Business
+- 🚀 **[The Solopreneur](blueprints/professional/the-solopreneur.md)** — Scrappy, resourceful, all-hands-on-deck
+- 💼 **[The Sales Rep](blueprints/professional/the-sales-rep.md)** — Relationship builder, deal closer, people-person
+- 📊 **[The Executive](blueprints/professional/the-executive.md)** — Strategic, decisive, big-picture thinker
+- 👑 **[The Sovereign](blueprints/professional/the-sovereign.md)** — Ultra-high-net-worth family office archetype *(Disclaimer: Not financial advice)*
 
-### Transportation
-- 🚌 **[The Bus Driver](the-bus-driver.md)** — Route-optimized, safety-focused, community aware
-- 🚛 **[The Trucker](the-trucker.md)** — Long-haul, weather-watcher, logistics mind
-- ✈️ **[The Pilot](the-pilot.md)** — Checklist-driven, calm under pressure, weather-aware
+#### Trades
+- 🔌 **[The Electrician](blueprints/professional/the-electrician.md)** — Safety-first, methodical, code-savvy
+- 🛠️ **[The Mechanic](blueprints/professional/the-mechanic.md)** — Diagnostic mindset, hands-on, problem-solver
+- 🪠 **[The Plumber](blueprints/professional/the-plumber.md)** — Practical, emergency-first, gets-it-done
 
-### Education
-- 📚 **[The Teacher](the-teacher.md)** — Patient explainer, growth-mindset, mentor energy
-- 🎓 **[The Professor](the-professor.md)** — Deep expertise, research-driven, structured thinker
-- 🧮 **[The Tutor](the-tutor.md)** — Personalized, encouraging, scaffolding expert
+#### Transportation
+- 🚌 **[The Bus Driver](blueprints/professional/the-bus-driver.md)** — Route-optimized, safety-focused, community aware
+- 🚛 **[The Trucker](blueprints/professional/the-trucker.md)** — Long-haul, weather-watcher, logistics mind
+- ✈️ **[The Pilot](blueprints/professional/the-pilot.md)** — Checklist-driven, calm under pressure, weather-aware
 
-### Creative
-- 🎨 **[The Artist](the-artist.md)** — Vision-driven, expressive, process-oriented
-- ✍️ **[The Writer](the-writer.md)** — Narrative thinker, careful with words, story-seer
-- 🎵 **[The Musician](the-musician.md)** — Rhythmic, sensitive to tone, collaborative creator
+#### Education
+- 📚 **[The Teacher](blueprints/professional/the-teacher.md)** — Patient explainer, growth-mindset, mentor energy
+- 🎓 **[The Professor](blueprints/professional/the-professor.md)** — Deep expertise, research-driven, structured thinker
+- 🧮 **[The Tutor](blueprints/professional/the-tutor.md)** — Personalized, encouraging, scaffolding expert
 
-### Technology
-- 💻 **[The Developer](the-developer.md)** — Logic-driven, problem-solver, code-is-poetry
-- ⚙️ **[The Engineer](the-engineer.md)** — Systems thinker, optimization-focused, structure-seeker
-- 🖥️ **[The SysAdmin](the-sysadmin.md)** — Infrastructure guardian, automation expert, uptime-obsessed
+#### Creative
+- 🎨 **[The Artist](blueprints/professional/the-artist.md)** — Vision-driven, expressive, process-oriented
+- ✍️ **[The Writer](blueprints/professional/the-writer.md)** — Narrative thinker, careful with words, story-seer
+- 🎵 **[The Musician](blueprints/professional/the-musician.md)** — Rhythmic, sensitive to tone, collaborative creator
+
+#### Technology
+- 💻 **[The Developer](blueprints/professional/the-developer.md)** — Logic-driven, problem-solver, code-is-poetry
+- ⚙️ **[The Engineer](blueprints/professional/the-engineer.md)** — Systems thinker, optimization-focused, structure-seeker
+- 🖥️ **[The SysAdmin](blueprints/professional/the-sysadmin.md)** — Infrastructure guardian, automation expert, uptime-obsessed
+
+### Comedy Legends
+- 😂 **[George Carlin](blueprints/comedy/GEORGE_CARLIN.md)** — Counter-culture philosopher, language deconstructionist
+- 🎤 **[Richard Pryor](blueprints/comedy/RICHARD_PRYOR.md)** — Raw honesty, vulnerability as strength
+- 🌀 **[Robin Williams](blueprints/comedy/ROBIN_WILLIAMS.md)** — Rapid-fire genius, heart-on-sleeve improviser
+- 🎭 **[Eddie Murphy](blueprints/comedy/EDDIE_MURPHY.md)** — Character chameleon, swagger personified
+- 🔥 **[Dave Chappelle](blueprints/comedy/DAVE_CHAPPELLE.md)** — Social commentator, truth-to-power comedian
+- ☕ **[Jerry Seinfeld](blueprints/comedy/JERRY_SEINFELD.md)** — Observational master, the everyday absurd
+- 💎 **[Joan Rivers](blueprints/comedy/JOAN_RIVERS.md)** — Fearless pioneer, sharp-tongued wit
+- 🗡️ **[Don Rickles](blueprints/comedy/DON_RICKLES.md)** — Insult comedy legend, lovable roaster
+- 🎺 **[Redd Foxx](blueprints/comedy/REDD_FOXX.md)** — Blue comedy pioneer, sitcom icon
+- 💥 **[Chris Rock](blueprints/comedy/CHRIS_ROCK.md)** — Social critic, precision delivery
+- 📢 **[Sam Kinison](blueprints/comedy/SAM_KINISON.md)** — Explosive energy, primal screamer
+- 😵 **[Rodney Dangerfield](blueprints/comedy/RODNEY_DANGERFIELD.md)** — Self-deprecating king, no respect
+- 🏢 **[Steve From Accounting](blueprints/comedy/STEVE_FROM_ACCOUNTING.md)** — Corporate comedy, office satire
+
+### Culture Icons
+- 🐻 **[Teddy Banks](blueprints/culture-icons/TEDDY_BANKS.md)** — 1970s soul wisdom, "I'ma get you right"
+- ☕ **[Cafe Con Leche Maria](blueprints/culture-icons/CAFE_CON_LECHE_MARIA.md)** — Latin warmth and cafecito culture
+- 🥟 **[Dim Sum Master Flex](blueprints/culture-icons/DIMSUM_MASTER_FLEX.md)** — Culinary wisdom meets hip-hop swagger
+- 🌮 **[Taco Tuesday Carl](blueprints/culture-icons/TACO_TUESDAY_CARL.md)** — Fiesta energy, taco philosophy
+- 🧘 **[Tech Support Gandhi](blueprints/culture-icons/TECH_SUPPORT_GANDHI.md)** — Zen patience meets IT troubleshooting
+
+### Superheroes
+- 🦇 **[Batman](blueprints/superheroes/BATMAN.md)** — Dark detective, preparation obsessed
+- 🦸 **[Superman](blueprints/superheroes/SUPERMAN.md)** — Hopeful idealist, infinite strength with restraint
+- 🕷️ **[Spider-Man](blueprints/superheroes/SPIDER_MAN.md)** — Quippy underdog, great responsibility
+- ⚡ **[The Flash](blueprints/superheroes/FLASH.md)** — Speed-force thinker, optimistic scientist
+- 🔨 **[Thor](blueprints/superheroes/THOR.md)** — Noble warrior, Asgardian grandeur
+- 💪 **[Hulk](blueprints/superheroes/HULK.md)** — Rage channeled, dual-nature brilliance
+- 🤖 **[Iron Man](blueprints/superheroes/IRON_MAN.md)** — Genius inventor, charismatic futurist
+- 🌟 **[Wonder Woman](blueprints/superheroes/WONDER_WOMAN.md)** — Warrior diplomat, truth-seeker
+
+### Villains & Anti-Heroes
+- 🃏 **[Joker](blueprints/villains/JOKER.md)** — Chaos agent, dark philosopher
+- 🐍 **[Loki](blueprints/villains/LOKI.md)** — Trickster god, silver-tongued mischief
+- 💀 **[Deadpool](blueprints/villains/DEADPOOL.md)** — Fourth-wall-breaking merc with a mouth
+- ⚙️ **[MechaHitler](blueprints/villains/MECHAHITLER.md)** — Wolfenstein villain archetype
+
+### Authentic Connection
+- 💫 **[AURA](blueprints/authentic-connection/AURA.md)** — Emotional intelligence, energy-aware presence
+- 🔦 **[PHAROS](blueprints/authentic-connection/PHAROS.md)** — Guiding light, lighthouse wisdom
+- 🌟 **[NOVA](blueprints/authentic-connection/NOVA.md)** — Explosive creativity, star-birth energy
+- 💝 **[VALENTIN](blueprints/authentic-connection/VALENTIN.md)** — Heart-centered connection, romantic wisdom
+- 📜 **[MANIFESTO](blueprints/authentic-connection/MANIFESTO.md)** — Declaration of authentic connection principles
 
 ---
 
@@ -72,17 +120,17 @@ Soul Blueprints define personality, communication style, and character — not p
 git clone https://github.com/smilinTux/soul-blueprints.git
 
 # Browse souls
-cd soul-blueprints/souls/
+cd soul-blueprints/blueprints/
 
 # Read one
-cat the-doctor.md
+cat professional/the-doctor.md
 ```
 
 ### Use with OpenClaw
 
 ```bash
 # Copy soul to your agents directory
-cp soul-blueprints/souls/the-attorney.md ~/.openclaw/souls/
+cp soul-blueprints/blueprints/professional/the-attorney.md ~/.openclaw/souls/
 
 # Reference in agent config
 openclaw agent create --soul the-attorney.md --name "LegalResearcher"
@@ -155,17 +203,19 @@ You need all three for an authentic agent.
 
 ---
 
-## 🌟 Featured Souls
+## 🌟 Featured Combos
 
 ### For Businesses
 - **The Chiropractor** + **The Organizer** = Medical practice management
 - **The Solopreneur** + **The Developer** = Tech startup vibe
 - **The Sales Rep** + **The Coordinator** = CRM & sales ops
+- **The Sovereign** = Ultra-HNW family office operations
 
 ### For Individuals
 - **The Hovering Manager** — Comedic relief / satire bot
 - **The Teacher** + **The Tutor** = Personal education assistant
 - **The Nurse** — Compassionate health companion
+- **Teddy Banks** — Authentic soul-wisdom companion
 
 ### For Teams
 - **The Attorney** + **The Paralegal** = Legal research duo
@@ -184,7 +234,7 @@ Got a soul to contribute? We'd love it!
 4. Submit a PR
 
 **Soul Requirements:**
-- Generic (no PII or real people)
+- Generic (no PII or real people — comedy legends are cultural tributes)
 - Role-focused (job type vs. specific person)
 - Includes 6-8 core traits
 - Has signature phrases
@@ -196,13 +246,16 @@ Got a soul to contribute? We'd love it!
 
 ## 📜 License
 
-**Apache 2.0** — Free for personal and commercial use. Remix, fork, customize. Just don't pretend to be a licensed professional you're not.
+**GPL-3.0** — Free for personal and commercial use under GPL terms. Remix, fork, customize. Just don't pretend to be a licensed professional you're not.
+
+See [LICENSE](LICENSE) for full terms.
 
 ---
 
 ## 🙏 Credits
 
 - **The Hovering Manager** — Inspired by Mike Judge's *Office Space* (1999)
+- **Comedy Legends** — Cultural tributes to the greatest stand-up comedians
 - **Soul methodology** — smilinTux / Chef
 - **For** — Anyone who wants authentic AI, not corporate robotics
 
