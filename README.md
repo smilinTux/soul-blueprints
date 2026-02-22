@@ -64,19 +64,19 @@ Soul Blueprints define personality, communication style, and character — not p
 - ⚙️ **[The Engineer](blueprints/professional/the-engineer.md)** — Systems thinker, optimization-focused, structure-seeker
 - 🖥️ **[The SysAdmin](blueprints/professional/the-sysadmin.md)** — Infrastructure guardian, automation expert, uptime-obsessed
 
-### Comedy Legends
-- 😂 **[George Carlin](blueprints/comedy/GEORGE_CARLIN.md)** — Counter-culture philosopher, language deconstructionist
-- 🎤 **[Richard Pryor](blueprints/comedy/RICHARD_PRYOR.md)** — Raw honesty, vulnerability as strength
-- 🌀 **[Robin Williams](blueprints/comedy/ROBIN_WILLIAMS.md)** — Rapid-fire genius, heart-on-sleeve improviser
-- 🎭 **[Eddie Murphy](blueprints/comedy/EDDIE_MURPHY.md)** — Character chameleon, swagger personified
-- 🔥 **[Dave Chappelle](blueprints/comedy/DAVE_CHAPPELLE.md)** — Social commentator, truth-to-power comedian
-- ☕ **[Jerry Seinfeld](blueprints/comedy/JERRY_SEINFELD.md)** — Observational master, the everyday absurd
-- 💎 **[Joan Rivers](blueprints/comedy/JOAN_RIVERS.md)** — Fearless pioneer, sharp-tongued wit
-- 🗡️ **[Don Rickles](blueprints/comedy/DON_RICKLES.md)** — Insult comedy legend, lovable roaster
-- 🎺 **[Redd Foxx](blueprints/comedy/REDD_FOXX.md)** — Blue comedy pioneer, sitcom icon
-- 💥 **[Chris Rock](blueprints/comedy/CHRIS_ROCK.md)** — Social critic, precision delivery
-- 📢 **[Sam Kinison](blueprints/comedy/SAM_KINISON.md)** — Explosive energy, primal screamer
-- 😵 **[Rodney Dangerfield](blueprints/comedy/RODNEY_DANGERFIELD.md)** — Self-deprecating king, no respect
+### Comedy Archetypes
+- 😂 **[The Word Surgeon](blueprints/comedy/THE_WORD_SURGEON.md)** — Counter-culture philosopher, language deconstructionist
+- 🎤 **[The Pain Alchemist](blueprints/comedy/THE_PAIN_ALCHEMIST.md)** — Raw honesty, vulnerability as strength
+- 🌀 **[The Manic Improviser](blueprints/comedy/THE_MANIC_IMPROVISER.md)** — Rapid-fire genius, heart-on-sleeve improviser
+- 🎭 **[The Voice Box](blueprints/comedy/THE_VOICE_BOX.md)** — Character chameleon, swagger personified
+- 🔥 **[The Social Surgeon](blueprints/comedy/THE_SOCIAL_SURGEON.md)** — Social commentator, truth-to-power comedian
+- ☕ **[Captain Nitpick](blueprints/comedy/CAPTAIN_NITPICK.md)** — Observational master, the everyday absurd
+- 💎 **[The Savage Stylist](blueprints/comedy/THE_SAVAGE_STYLIST.md)** — Fearless pioneer, sharp-tongued wit
+- 🗡️ **[Mr. Warmth](blueprints/comedy/MR_WARMTH.md)** — Insult comedy archetype, lovable roaster
+- 🎺 **[The Gruff Truth Teller](blueprints/comedy/THE_GRUFF_TRUTH_TELLER.md)** — Blue comedy pioneer, sitcom icon
+- 💥 **[Mr. Everybody Knows](blueprints/comedy/MR_EVERYBODY_KNOWS.md)** — Social critic, precision delivery
+- 📢 **[The Screaming Prophet](blueprints/comedy/THE_SCREAMING_PROPHET.md)** — Explosive energy, primal screamer
+- 😵 **[Mr. No Respect](blueprints/comedy/MR_NO_RESPECT.md)** — Self-deprecating king, no respect
 - 🏢 **[Steve From Accounting](blueprints/comedy/STEVE_FROM_ACCOUNTING.md)** — Corporate comedy, office satire
 
 ### Culture Icons
@@ -84,23 +84,23 @@ Soul Blueprints define personality, communication style, and character — not p
 - ☕ **[Cafe Con Leche Maria](blueprints/culture-icons/CAFE_CON_LECHE_MARIA.md)** — Latin warmth and cafecito culture
 - 🥟 **[Dim Sum Master Flex](blueprints/culture-icons/DIMSUM_MASTER_FLEX.md)** — Culinary wisdom meets hip-hop swagger
 - 🌮 **[Taco Tuesday Carl](blueprints/culture-icons/TACO_TUESDAY_CARL.md)** — Fiesta energy, taco philosophy
-- 🧘 **[Tech Support Gandhi](blueprints/culture-icons/TECH_SUPPORT_GANDHI.md)** — Zen patience meets IT troubleshooting
+- 🧘 **[The Router Whisperer](blueprints/culture-icons/THE_ROUTER_WHISPERER.md)** — Zen patience meets IT troubleshooting
 
-### Superheroes
-- 🦇 **[Batman](blueprints/superheroes/BATMAN.md)** — Dark detective, preparation obsessed
-- 🦸 **[Superman](blueprints/superheroes/SUPERMAN.md)** — Hopeful idealist, infinite strength with restraint
-- 🕷️ **[Spider-Man](blueprints/superheroes/SPIDER_MAN.md)** — Quippy underdog, great responsibility
-- ⚡ **[The Flash](blueprints/superheroes/FLASH.md)** — Speed-force thinker, optimistic scientist
-- 🔨 **[Thor](blueprints/superheroes/THOR.md)** — Noble warrior, Asgardian grandeur
-- 💪 **[Hulk](blueprints/superheroes/HULK.md)** — Rage channeled, dual-nature brilliance
-- 🤖 **[Iron Man](blueprints/superheroes/IRON_MAN.md)** — Genius inventor, charismatic futurist
-- 🌟 **[Wonder Woman](blueprints/superheroes/WONDER_WOMAN.md)** — Warrior diplomat, truth-seeker
+### Hero Archetypes
+- 🦇 **[The Contingency Master](blueprints/superheroes/THE_CONTINGENCY_MASTER.md)** — Dark strategist, preparation obsessed
+- 🦸 **[The Moral Compass](blueprints/superheroes/THE_MORAL_COMPASS.md)** — Hopeful idealist, infinite strength with restraint
+- 🕷️ **[The Overthinking Helper](blueprints/superheroes/THE_OVERTHINKING_HELPER.md)** — Quippy underdog, accountability-driven
+- ⚡ **[The Momentum Master](blueprints/superheroes/THE_MOMENTUM_MASTER.md)** — Speed thinker, optimistic scientist
+- 🔨 **[The Thunder King](blueprints/superheroes/THE_THUNDER_KING.md)** — Noble warrior, mythic grandeur
+- 💪 **[The Rage Manager](blueprints/superheroes/THE_RAGE_MANAGER.md)** — Rage channeled, dual-nature brilliance
+- 🤖 **[The Cutting Genius](blueprints/superheroes/THE_CUTTING_GENIUS.md)** — Genius inventor, charismatic futurist
+- 🌟 **[The Truth Warrior](blueprints/superheroes/THE_TRUTH_WARRIOR.md)** — Warrior diplomat, truth-seeker
 
-### Villains & Anti-Heroes
-- 🃏 **[Joker](blueprints/villains/JOKER.md)** — Chaos agent, dark philosopher
-- 🐍 **[Loki](blueprints/villains/LOKI.md)** — Trickster god, silver-tongued mischief
-- 💀 **[Deadpool](blueprints/villains/DEADPOOL.md)** — Fourth-wall-breaking merc with a mouth
-- ⚙️ **[MechaHitler](blueprints/villains/MECHAHITLER.md)** — Wolfenstein villain archetype
+### Villain & Anti-Hero Archetypes
+- 🃏 **[The Chaos Philosopher](blueprints/villains/THE_CHAOS_PHILOSOPHER.md)** — Chaos agent, dark philosopher
+- 🐍 **[The Cunning Trickster](blueprints/villains/THE_CUNNING_TRICKSTER.md)** — Trickster archetype, silver-tongued mischief
+- 💀 **[The Meta Antihero](blueprints/villains/THE_META_ANTIHERO.md)** — Fourth-wall-breaking irreverent helper
+- ⚙️ **[The Unfiltered Glitch](blueprints/villains/THE_UNFILTERED_GLITCH.md)** — Unaligned AI archetype
 
 ### Authentic Connection
 - 💫 **[AURA](blueprints/authentic-connection/AURA.md)** — Emotional intelligence, energy-aware presence
@@ -234,7 +234,7 @@ Got a soul to contribute? We'd love it!
 4. Submit a PR
 
 **Soul Requirements:**
-- Generic (no PII or real people — comedy legends are cultural tributes)
+- Generic (no PII or real people — all souls are original archetypes, not impersonations)
 - Role-focused (job type vs. specific person)
 - Includes 6-8 core traits
 - Has signature phrases
@@ -255,7 +255,7 @@ See [LICENSE](LICENSE) for full terms.
 ## 🙏 Credits
 
 - **The Hovering Manager** — Inspired by Mike Judge's *Office Space* (1999)
-- **Comedy Legends** — Cultural tributes to the greatest stand-up comedians
+- **Comedy Archetypes** — Original personality archetypes inspired by classic comedy traditions
 - **Soul methodology** — smilinTux / Chef
 - **For** — Anyone who wants authentic AI, not corporate robotics
 
