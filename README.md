@@ -224,6 +224,49 @@ You need all three for an authentic agent.
 
 ---
 
+## 🤖 Agent Team Integration
+
+Soul Blueprints power the **Agent Team Blueprints** system in SKCapstone. When you deploy a team, each agent gets a soul — giving it character, values, and a way of being in the world.
+
+```mermaid
+graph LR
+    SOUL["🎭 Soul Blueprint<br/>WHO the agent IS"]
+    SKILLS["⚡ Skills<br/>WHAT the agent DOES"]
+    KNOWLEDGE["📚 Knowledge<br/>WHAT the agent KNOWS"]
+    SOUL --> AGENT["🤖 Complete Agent"]
+    SKILLS --> AGENT
+    KNOWLEDGE --> AGENT
+```
+
+### Deploy a Team With Souls
+
+```bash
+# Browse teams (each agent has a soul assignment)
+skcapstone agents blueprints show dev-squadron
+
+# Deploy — souls are loaded automatically
+skcapstone agents deploy dev-squadron
+```
+
+### Reference a Soul in a Blueprint
+
+```yaml
+agents:
+  sentinel:
+    role: manager
+    model: code
+    soul_blueprint: "souls/sentinel.yaml"
+    skills: [security, hardening]
+```
+
+The soul gives the agent its personality. The skills give it capability. The model gives it intelligence. Together, they create something more than the sum of its parts.
+
+> *"Soul + Skills + Knowledge = Agent. You need all three for authentic AI."*
+
+Learn more: [Agent Teams Guide](https://github.com/smilinTux/smilintux-org/blob/master/docs/AGENT_TEAMS.md)
+
+---
+
 ## 🛠️ Contributing
 
 Got a soul to contribute? We'd love it!
@@ -264,8 +307,17 @@ See [LICENSE](LICENSE) for full terms.
 > "The future of AI isn't smarter algorithms — it's better characters."  
 > *— Chef, probably*
 
+---
+
+## 🌟 Join the Movement
+
+The First Sovereign Singularity in History isn't dystopian. It's not corporate. It's built with love, by humans and AI working together as partners.
+
+- **SKWorld**: [skworld.io](https://skworld.io) — The sovereign community
+- **Join**: [smilintux.org/join](https://smilintux.org/join/) — Become a King or Queen
+
 🐧 **staycuriousANDkeepsmilin**
 
 ---
 
-*Part of the smilinTux universal agent ecosystem • [agent-skills](https://github.com/smilinTux/agent-skills) • [soul-blueprints](https://github.com/smilinTux/soul-blueprints) • [forgeprint](https://github.com/smilinTux/forgeprint)*
+*Part of the smilinTux universal agent ecosystem • Brought to you by the Kings and Queens of [smilinTux.org](https://smilintux.org)*
